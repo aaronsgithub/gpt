@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gpt"
+  site-url: "https://aaronsgithub.github.io/gpt"
+  description: "Toy GPT via Karpathy"
+  repo-branch: main
+  repo-url: "https://github.com/aaronsgithub/gpt"
